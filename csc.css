@@ -1,0 +1,10 @@
+.text-align::center{
+width: 330px;
+height: 500px;
+padding: 30px;
+border: 5px solid #34495e;
+border-radius: 10px;
+outline: none;
+background: rgba(52, 73, 94, 1)
+;
+}
